@@ -4,7 +4,7 @@ const Card = ({ imgsrc, title, insta, email, linkedIn, field }) => {
   return (
     <div className='min-w-40'>
       <div className='flex flex-col items-center'>
-        <img className='w-48 h-48 object-cover object-top rounded-full transition-transform duration-300 hover:scale-[1.15]' src={imgsrc} alt="IMG" />
+        <img className='w-48 h-48 object-cover object-top rounded-full transition-transform duration-300 hover:scale-[1.15]' src={imgsrc} alt="IMG" loading="lazy" />
         <h1 className='my-2 text-2xl font-semibold text-center tracking-tight'>{title}</h1>
         {field && <h2 className='text-xl text-gray-700'>{field}</h2>}
         <ul className="flex justify-center mt-4 space-x-4">

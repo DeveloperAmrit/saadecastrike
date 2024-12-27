@@ -62,6 +62,20 @@ export const members = [
         email: "b24cy1007@iitj.ac.in",
         insta: "",
         linkedIn: "https://www.linkedin.com/in/chinmay-joshi-b4006b325/"
+    },
+    {
+        name: "Anuraag Gudipati",
+        imgsrc: "/assets/images/anuraag.jpg",
+        email: "b24me1011@iitj.ac.in",
+        insta: "https://www.instagram.com/anuraagg27/",
+        linkedIn: "https://www.linkedin.com/in/anuraag-gudipati-191ba4327/"
+    },
+    {
+        name: "Arni Godiawala",
+        imgsrc: "assets/images/arni.jpg",
+        email: "b24ee1021@iitj.ac.in",
+        insta: "https://www.instagram.com/arni.4.2.6/",
+        linkedIn: "https://www.linkedin.com/in/arni-godiawala-63a465324/"
     }
 ]
 

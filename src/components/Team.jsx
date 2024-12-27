@@ -6,7 +6,7 @@ import { VP, OC, coordinators, members } from '../data/decaStrikeTeam';
 const Logo = () => {
   return (
     <div className='flex justify-center items-center transition-transform duration-300 hover:scale-110'>
-      <img className='w-36 h-36 md:w-40 md:h-40 lg:w-56 lg:h-56 rounded-full' src="/assets/images/decastrike-logo.jpg" alt="LION LOGO" />
+      <img className='w-36 h-36 md:w-40 md:h-40 lg:w-56 lg:h-56 rounded-full' src="/assets/images/decastrike-logo.jpg" alt="LION LOGO" loading="lazy"/>
     </div>
   );
 }

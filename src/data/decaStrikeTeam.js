@@ -76,6 +76,13 @@ export const members = [
         email: "b24ee1021@iitj.ac.in",
         insta: "https://www.instagram.com/arni.4.2.6/",
         linkedIn: "https://www.linkedin.com/in/arni-godiawala-63a465324/"
+    },
+    {
+        name: "Yashvi Jain",
+        imgsrc: "assets/images/yashvi.jpg",
+        email: "b24ee1089@iitj.ac.in",
+        insta: "https://www.instagram.com/yashviijain_",
+        linkedIn: "https://www.linkedin.com/in/yashvi-jain-b6145b331/"
     }
 ]
 

@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className='max-w-7xl w-full h-full flex justify-between items-center px-2 py-2'>
         <div className='flex justify-center items-center gap-3 cursor-pointer'>
           <img className='w-16 h-16 rounded-full -z-10'  src="/assets/images/decastrike-logo.jpg" alt="TIGER" />
-          <h1 className='text-3xl font-bold '>DecaStrike</h1>
+          <h1 className='text-xl sm:text-3xl font-bold '>DecaStrike</h1>
         </div>
         <ul className='flex gap-x-6 text-xl'>
           <li><HoverUnderline text="Home" link="/"/></li>

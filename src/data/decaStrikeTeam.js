@@ -83,6 +83,20 @@ export const members = [
         email: "b24ee1089@iitj.ac.in",
         insta: "https://www.instagram.com/yashviijain_",
         linkedIn: "https://www.linkedin.com/in/yashvi-jain-b6145b331/"
+    },
+    {
+        name: "Ved Mitra Verma",
+        imgsrc: "assets/images/ved.jpg",
+        email: "b24me1078@iitj.ac.in",
+        insta: "",
+        linkedIn: "https://www.linkedin.com/in/ved-mitra-verma-64a753313/"
+    },
+    {
+        name: "Anushka Mahur",
+        imgsrc: "assets/images/anushka.jpg",
+        email: "b24ee1006@iitj.ac.in",
+        insta: "https://www.instagram.com/_anushkamahur_/",
+        linkedIn: "https://www.linkedin.com/in/anushka-mahur-a5a69131b/"
     }
 ]
 

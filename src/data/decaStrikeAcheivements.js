@@ -15,4 +15,12 @@ export const achievements = [
         ytlink: null,
         insta: "https://www.instagram.com/p/DD4HJ1BpHai/"
     },
+    {
+        imgsrc: "assets/images/manishinterview.jpg",
+        date: "29 December 2024",
+        title: "Interview of Manish Kumawat",
+        description: "Our team is thrilled to have had an enriching session with our esteemed alumnus, Manish Kumawat, Class of 2014. He shared his inspiring career journey, highlighting the importance of focusing on program fundamentals, solving big problems with simple solutions, fostering growth by helping others develop and emphasizing soft skills. His insights left us motivated and inspired.",
+        ytlink: null,
+        insta: "https://www.instagram.com/p/DEKor5kvMRx/?igsh=djJpemliOHkwdWg5"
+    },
 ]
